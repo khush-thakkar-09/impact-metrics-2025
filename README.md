@@ -29,16 +29,6 @@ https://huggingface.co/datasets/khush-thakkar-09/station_hour
 
 --------------------------------------------------
 
-PROJECT STRUCTURE
-
-impact-metrics-dashboard/
-│
-├── dashboard.py        # Main Streamlit application
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
-
---------------------------------------------------
-
 RUNNING THE DASHBOARD LOCALLY
 
 NOTE:
